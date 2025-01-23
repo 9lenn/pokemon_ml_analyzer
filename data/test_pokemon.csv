@@ -1,0 +1,6 @@
+name,hp,attack,defense,sp_attack,sp_defense,speed,type1
+Charizard,78,84,78,109,85,100,fire
+Mewtwo,106,110,90,154,90,130,psychic
+Dragonite,91,134,95,100,100,80,dragon
+Pikachu,35,55,40,50,50,90,electric
+Gyarados,95,125,79,60,100,81,water 
