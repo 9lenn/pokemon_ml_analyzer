@@ -55,8 +55,8 @@ pokemon_ml/
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
-cd pokemon_ml
+git clone [https://github.com/9lenn/pokemon_ml_analyzer/]
+cd pokemon_ml_analyzer
 ```
 
 2. Install dependencies:
